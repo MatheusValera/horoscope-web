@@ -1,0 +1,12 @@
+Aries;Signos\\aries.png;Voce vai dar um show de disposicao e autoconfianca em tudo o que fizer!;
+Touro;Signos\\touro.png;Voce pode desejar apenas paz e sossego. Redobre a atencao com pessoas falsas, pois ha risco de alguem tentar te prejudicar.;
+Gemeos;Signos\\gemeos.png;Voce, que ja e um signo aventureiro por natureza, estara ainda mais disposto a sair de casa e se divertir com a galera.;
+Cancer;Signos\\cancer.png;Voce se concentre em dar um passo importante na carreira hoje, ao inves de curtir o domingao largado/a no sofa.;
+Leao;Signos\\leao.png;Nao se espante se tiver que refazer alguns planos de ultima hora ou lidar com surpresas. No que depender dos astros, essas reviravoltas tem tudo para trazer um final surpreendente, mas feliz.;
+Virgem;Signos\\virgem.png;O astral e mais do que favoravel para se desapegar do que ja vinha incomodando voce ha um tempo, inclusive no visual.;
+Libra;Signos\\libra.png;Aproveite o pique pra botar ordem na casa e, de quebra, movimentar o esqueleto. A saude tambem conta com otimas vibes e tudo o que fizer agora, seja uma escolha mais saudavel.;
+Escorpiao;Signos\\escorpiao.png;Seu foco pode se voltar para o trabalho hoje. Faca um esforco para se concentrar no que precisa ser feito, aproveite para colocar as tarefas todas em ordem e nao desanime.;
+Sagitario;Signos\\sagitario.png;Os relacionamentos, especialmente com pessoas mais jovens, ou mesmo com os filhos, ganham a protecao das estrelas e voce vai sentir suas energias renovadas.;
+Capricornio;Signos\\capricornio.png;Tudo indica que sera preciso tirar um tempo para resolver algumas pendencias, arrumar seu cantinho do jeito que gosta e ate trocar alguns moveis de lugar pra tornar tudo mais aconchegante.;
+Aquario;Signos\\aquario.png;Pode pintar aquele desejo irresistivel de sair por ai, reencontrar a galera e fazer aquela aglomeracao gostosa.;
+Peixes;Signos\\peixes.png;Aproveite para reforcar suas reservas e engordar a poupanca se entrar uma grana extra. Mas nao e porque voce esta com mais dinheiro no bolso que pode sair por ai colecionando boletos novos adoidado.;
